@@ -49,7 +49,6 @@
 			<groupId>org.cloudbus.cloudsim</groupId>
 			<artifactId>cloudsim</artifactId>
 			<version>4.0</version>
-			<type>pom</type>
 		</dependency>
 		<dependency>
 			<groupId>org.cloudbus.cloudsim</groupId>
